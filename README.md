@@ -1,6 +1,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/TrainingByPackt/Beginning-Application-Development-with-TensorFlow-and-Keras.svg)](https://github.com/TrainingByPackt/Beginning-Application-Development-with-TensorFlow-and-Keras/issues)
 [![GitHub forks](https://img.shields.io/github/forks/TrainingByPackt/Beginning-Application-Development-with-TensorFlow-and-Keras.svg)](https://github.com/TrainingByPackt/Beginning-Application-Development-with-TensorFlow-and-Keras/network)
-[![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/Beginning-Application-Development-with-TensorFlow-and-Keras.svg)](https://github.com/TrainingByPackt/Beginning-Application-Development-with-TensorFlow-and-Keras/stargazers)[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/TrainingByPackt/Beginning-Application-Development-with-TensorFlow-and-Keras/pulls)
+[![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/Beginning-Application-Development-with-TensorFlow-and-Keras.svg)](https://github.com/TrainingByPackt/Beginning-Application-Development-with-TensorFlow-and-Keras/stargazers)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/TrainingByPackt/Beginning-Application-Development-with-TensorFlow-and-Keras/pulls)
 
 
 
