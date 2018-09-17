@@ -1,3 +1,8 @@
+[![GitHub issues](https://img.shields.io/github/issues/TrainingByPackt/Beginning-Application-Development-with-TensorFlow-and-Keras.svg)](https://github.com/TrainingByPackt/Beginning-Application-Development-with-TensorFlow-and-Keras/issues)
+[![GitHub forks](https://img.shields.io/github/forks/TrainingByPackt/Beginning-Application-Development-with-TensorFlow-and-Keras.svg)](https://github.com/TrainingByPackt/Beginning-Application-Development-with-TensorFlow-and-Keras/network)
+[![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/Beginning-Application-Development-with-TensorFlow-and-Keras.svg)](https://github.com/TrainingByPackt/Beginning-Application-Development-with-TensorFlow-and-Keras/stargazers)
+
+
 
 # Beginning Application Development with TensorFlow and Keras
 This course shows how  to exploit the real world with complex raw data using TensorFlow 1.x. Throughout the book, you’ll learn how to implement deep learning algorithms for machine learning systems and integrate them into your product offerings, including search, image recognition, and language processing. Additionally, you’ll learn how to analyze and improve the performance of deep learning models. This can be done by comparing algorithms against benchmarks, along with machine intelligence, to learn from the information and determine ideal behaviors within a specific context.After finishing the book, you will be familiar with machine learning techniques, in particular the use of TensorFlow for deep learning, and will be ready to apply your knowledge to research or commercial projects.
