@@ -33,10 +33,7 @@ For an optimal student experience, we recommend the following hardware configura
 ### Software requirements
 You’ll also need the following software installed in advance:
 * Operating System: Windows (8 or higher).
-* [Visual Studio Code](https://code.visualstudio.com/)
-* [Python 3](https://www.python.org/downloads/)
-* TensorFlow 1.4 or higher on [Windows: Follow instructions](https://www.tensorflow.org/install/install_windows)
-* [Keras 2](https://keras.io/#installation)
+* Node.js latest version
 
 
 
