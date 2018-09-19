@@ -1,0 +1,46 @@
+#
+#  CRYPTONIC DOCKER-COMPOSE
+#  ------------------------
+#
+#  Here we configure the application stack
+#  that is deployed with Cryptonic. This
+#  includes three elements:
+#
+#    i.   Cryptonic App: a Python web-application
+#         that exposes the Cryptonic API via
+#         the HTTP protocol.
+#
+#    ii.  Cryptonic Cache: a Redis instance that
+#         works as a caching layer.
+#
+version: "3"
+
+services:
+
+    cache:
+        image: cryptonic-cache:$CRYPTONIC_VERSION
+        volumes:
+            - $PWD/cache_data:/data
+        networks:
+            - cryptonic
+
+    cryptonic:
+        image: cryptonic:$CRYPTONIC_VERSION
+        ports:
+            - "5000:5000"
+        environment:
+            - BITCOIN_START_DATE=2017-01-01
+            - EPOCHS=300
+            - PERIOD_SIZE=7
+        volumes:
+            - ./cryptonic_logs:/logs
+            - ./models:/models
+        env_file:
+            - cryptonic.env
+        depends_on:
+            - cache
+        networks:
+            - cryptonic
+
+networks:
+    cryptonic:

@@ -1,0 +1,123 @@
+/*
+  Icon Font: forbesicon
+*/
+
+@font-face {
+    font-family: "forbesicon";
+    src: url("https://i.forbesimg.com/assets/fonts/fbs-typography/0223/forbesicon.eot");
+    src: url("https://i.forbesimg.com/assets/fonts/fbs-typography/0223/forbesicon.eot?#iefix") format("embedded-opentype"),
+         url("https://i.forbesimg.com/assets/fonts/fbs-typography/0223/forbesicon.woff") format("woff"),
+         url("https://i.forbesimg.com/assets/fonts/fbs-typography/0223/forbesicon.ttf") format("truetype"),
+         url("https://i.forbesimg.com/assets/fonts/fbs-typography/0223/forbesicon.svg#forbesicon") format("svg");
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  @media screen and (-webkit-min-device-pixel-ratio:0) {
+    @font-face {
+      font-family: "forbesicon";
+      src: url("https://i.forbesimg.com/assets/fonts/fbs-typography/0223/forbesicon.svg#forbesicon") format("svg");
+    }
+  }
+  
+  .icon {
+    font-family: "forbesicon";
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+  
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  .icon-add-person:before { content: "\f168"; }
+  .icon-amazon:before { content: "\f162"; }
+  .icon-arrow-down:before { content: "\f100"; }
+  .icon-arrow-down-bar:before { content: "\f149"; }
+  .icon-arrow-up:before { content: "\f101"; }
+  .icon-badge:before { content: "\f15f"; }
+  .icon-baidu:before { content: "\f16a"; }
+  .icon-book:before { content: "\f102"; }
+  .icon-brandvoice-logo:before { content: "\f150"; }
+  .icon-brandvoice-logo-brand:before { content: "\f151"; }
+  .icon-brandvoice-logo-voice:before { content: "\f152"; }
+  .icon-calendar:before { content: "\f143"; }
+  .icon-cart:before { content: "\f15b"; }
+  .icon-chat:before { content: "\f15c"; }
+  .icon-check:before { content: "\f103"; }
+  .icon-chevron-down:before { content: "\f135"; }
+  .icon-chevron-left:before { content: "\f136"; }
+  .icon-chevron-right:before { content: "\f137"; }
+  .icon-chevron-up:before { content: "\f138"; }
+  .icon-clipboard:before { content: "\f148"; }
+  .icon-clock:before { content: "\f146"; }
+  .icon-close:before { content: "\f104"; }
+  .icon-cog:before { content: "\f134"; }
+  .icon-comment-bubble:before { content: "\f105"; }
+  .icon-copy:before { content: "\f153"; }
+  .icon-desktop:before { content: "\f164"; }
+  .icon-donald-trump:before { content: "\f163"; }
+  .icon-download:before { content: "\f14a"; }
+  .icon-edit:before { content: "\f141"; }
+  .icon-email:before { content: "\f106"; }
+  .icon-enlarge:before { content: "\f147"; }
+  .icon-explore:before { content: "\f161"; }
+  .icon-facebook:before { content: "\f139"; }
+  .icon-flame:before { content: "\f15e"; }
+  .icon-forbes-china-logo:before { content: "\f16b"; }
+  .icon-forbes-life:before { content: "\f107"; }
+  .icon-forbes-logo:before { content: "\f108"; }
+  .icon-forbes-logo-f:before { content: "\f109"; }
+  .icon-gallery:before { content: "\f140"; }
+  .icon-georgia-daquo:before { content: "\f10a"; }
+  .icon-georgia-uaquo:before { content: "\f10b"; }
+  .icon-google:before { content: "\f13a"; }
+  .icon-group:before { content: "\f10c"; }
+  .icon-hamburger:before { content: "\f10d"; }
+  .icon-handshake:before { content: "\f14b"; }
+  .icon-home:before { content: "\f10e"; }
+  .icon-insights:before { content: "\f165"; }
+  .icon-instagram:before { content: "\f13b"; }
+  .icon-link:before { content: "\f10f"; }
+  .icon-linkedin:before { content: "\f13c"; }
+  .icon-location:before { content: "\f156"; }
+  .icon-lock:before { content: "\f154"; }
+  .icon-megaphone:before { content: "\f14c"; }
+  .icon-microphone:before { content: "\f14d"; }
+  .icon-mobile:before { content: "\f166"; }
+  .icon-pause:before { content: "\f15d"; }
+  .icon-phone-call:before { content: "\f14e"; }
+  .icon-photo:before { content: "\f167"; }
+  .icon-pinterest:before { content: "\f13d"; }
+  .icon-plus:before { content: "\f110"; }
+  .icon-preview-eye:before { content: "\f145"; }
+  .icon-print:before { content: "\f111"; }
+  .icon-qzone:before { content: "\f16c"; }
+  .icon-renren:before { content: "\f16d"; }
+  .icon-reply:before { content: "\f112"; }
+  .icon-reset:before { content: "\f113"; }
+  .icon-rss-feed:before { content: "\f114"; }
+  .icon-search:before { content: "\f115"; }
+  .icon-share:before { content: "\f116"; }
+  .icon-snapchat:before { content: "\f169"; }
+  .icon-square-bracket-left:before { content: "\f11e"; }
+  .icon-square-bracket-right:before { content: "\f11f"; }
+  .icon-staff-verified:before { content: "\f158"; }
+  .icon-star:before { content: "\f120"; }
+  .icon-terms:before { content: "\f14f"; }
+  .icon-trash:before { content: "\f142"; }
+  .icon-tumblr:before { content: "\f13e"; }
+  .icon-twitter:before { content: "\f13f"; }
+  .icon-twitter-verified:before { content: "\f157"; }
+  .icon-u30-logo:before { content: "\f155"; }
+  .icon-under-30-logo:before { content: "\f159"; }
+  .icon-user:before { content: "\f125"; }
+  .icon-video:before { content: "\f126"; }
+  .icon-wechat:before { content: "\f16e"; }
+  .icon-weibo:before { content: "\f16f"; }
+  .icon-womenforbes-logo:before { content: "\f160"; }
+  .icon-youtube:before { content: "\f15a"; }
