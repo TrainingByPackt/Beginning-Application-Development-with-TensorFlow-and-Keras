@@ -38,7 +38,7 @@ You’ll also need the following software installed in advance:
 * TensorFlow 1.4 or higher on [Windows: Follow instructions](https://www.tensorflow.org/install/install_windows)
 * [Keras 2](https://keras.io/#installation)
 
-[Packt](packt.com)
+[Packt](https://www.packtpub.com/)
 
 
 
