@@ -65,5 +65,5 @@ package-ui:
 #
 #  Deploy Docker containers.
 #
-deploy: 
+deploy:
 	docker-compose up -d;

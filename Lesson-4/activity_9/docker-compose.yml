@@ -19,6 +19,9 @@ services:
 
     cache:
         image: cryptonic-cache:$CRYPTONIC_VERSION
+        build:
+            context: ./cryptonic-cache
+            dockerfile: ./Dockerfile
         volumes:
             - $PWD/cache_data:/data
         networks:
@@ -26,6 +29,9 @@ services:
 
     cryptonic:
         image: cryptonic:$CRYPTONIC_VERSION
+        build:
+            context: .
+            dockerfile: ./Dockerfile
         ports:
             - "5000:5000"
         environment:
