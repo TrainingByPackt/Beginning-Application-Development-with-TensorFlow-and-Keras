@@ -26,7 +26,7 @@ pandas==0.21.1
 protobuf==3.5.0.post1
 python-dateutil==2.6.1
 pytz==2017.3
-PyYAML==3.12
+PyYAML==5.4
 redis==2.10.6
 rednose==1.2.3
 requests==2.18.4
