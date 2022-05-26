@@ -32,7 +32,7 @@ rednose==1.2.3
 requests==2.18.4
 scipy==1.0.0
 six==1.11.0
-tensorflow==1.4.1
+tensorflow==2.7.2
 tensorflow-tensorboard==0.4.0rc3
 termstyle==0.1.11
 urllib3==1.22
