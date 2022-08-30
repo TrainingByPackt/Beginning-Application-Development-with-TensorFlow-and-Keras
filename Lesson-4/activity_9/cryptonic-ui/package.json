@@ -14,7 +14,7 @@
     "dsv-loader": "^2.0.0",
     "element-ui": "^1.4.2",
     "lodash": "^4.17.4",
-    "moment-timezone": "^0.5.14",
+    "moment-timezone": "^0.5.35",
     "vue": "^2.4.2",
     "vue-c3": "^1.1.1",
     "vue-instant": "^1.0.1",
